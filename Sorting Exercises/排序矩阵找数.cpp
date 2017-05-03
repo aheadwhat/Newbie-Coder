@@ -1,4 +1,4 @@
-# find the target number in a sorted array
+%% Find the target number in a sorted array
 
 class Finder {
 public:
