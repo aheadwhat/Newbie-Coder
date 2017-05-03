@@ -1,3 +1,5 @@
+%% Find the length of the shortest sebsequence which is needed to change to guarantee the whole sequence sorted
+
 class Subsequence {
 public:
     int shortestSubsequence(vector<int> A, int n) {
