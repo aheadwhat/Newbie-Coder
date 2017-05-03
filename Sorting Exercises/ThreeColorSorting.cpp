@@ -1,4 +1,4 @@
-# Sorting 0,1,2 by groups with swapping operations
+% Sorting 0,1,2 by groups with swapping operations
 
 class ThreeColor {
 public:
